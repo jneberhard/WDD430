@@ -1,4 +1,4 @@
-app/dashboard/customers/page.tsx
+export const dynamic = 'force-dynamic';
 
 import { Metadata } from 'next';
 
